@@ -37,11 +37,7 @@ const App: React.FC = () => {
       <div className="cover-rectangle"></div>
 
     <div style={{ position: 'absolute', top:'100px', left: '500px'}}>
-      <StarRating rating={5}
-      
-      
-      
-      />
+     
 
       
     </div>
